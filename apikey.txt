@@ -1,0 +1,5 @@
+13b011ea1af44add908793f52bac2de0
+
+Jokes api
+
+https://sv443.net/jokeapi/v2/joke/Dark?type=single
